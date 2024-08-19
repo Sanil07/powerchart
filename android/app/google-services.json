@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54712089128",
+    "project_id": "powerchat-30d3b",
+    "storage_bucket": "powerchat-30d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54712089128:android:76e640115494e4c281931d",
+        "android_client_info": {
+          "package_name": "com.example.powerchat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA50TMd77PoBVU5wUJU6P7YHfHvQqs5MkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
